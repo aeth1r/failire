@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          aeth1r js
 paginate:       30
-baseurl:        "/aeth1r.js.org"
+baseurl:        "/failire"
 url:            "https://aeth1r.github.io"
 
 # Assets
