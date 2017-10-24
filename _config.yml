@@ -2,8 +2,8 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
-paginate:       5
+title:          aeth1r js
+paginate:       30
 baseurl:        "/aeth1r.js.org"
 url:            "https://aeth1r.github.io"
 
